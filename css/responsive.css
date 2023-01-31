@@ -1,0 +1,710 @@
+
+@media (max-width: 1350px){
+    .right-text{
+        padding-bottom: 40vh;
+    }
+.pay-media{
+   padding-top: 50px;
+   width: 82%;
+}
+.pay-card {
+   width: 280px;
+}
+.container2{
+    width: 75%;
+}
+.part{
+    left: 15%;
+    height: 200px;
+    width: 75%;
+}
+}
+@media (max-width: 1280px){
+    .top-mid{
+        display: flex;
+        flex-direction: column;
+        padding-left: 9%;
+        padding-top: 5px;
+      }
+      .top-part{
+        margin: 0;
+        width: 90%;
+      }
+      .tt{
+        padding-left: 10px; 
+      }
+      .t{
+        padding-left: 0px; 
+      }
+      nav ul{
+        padding-right: 9%;
+    }
+    nav img{ 
+        padding-left: 9%;
+    }
+      .text{
+        left: 18%;
+    }
+    .check-box{
+        left: 18%;
+    }
+    .button{
+        left: 18%;
+    }
+    .form5{
+        margin-left: 10%;
+    }
+    .pic{
+        position: absolute;
+        top: 36%;
+        right: 20%;
+    }
+    .circle{
+        height: 150px;
+        width: 150px;
+        top: 30vh;
+        right: 16%;
+    }
+    .hosting-card{
+        width: 80%;
+      }
+    .right-text{
+        padding-bottom: 30vh;
+    }
+    .parts2 h4{
+        padding-top: 30px;
+       }
+    .offer-media{
+        width: 80%;
+    }
+    .about-media{
+         width: 80%;
+     }
+     .pay-media{
+        padding-top: 50px;
+        width: 90%;
+    }
+    .pay-card {
+        width: 288px;
+     }
+    .icon{
+        margin-left: 60px;
+    }
+    .part{
+        top: 120vh;
+        left: 15%;
+    }
+    .container2{
+        width: 80%;
+    }
+    .left-f {
+        padding-left: 10%;
+    }
+    .part{
+        left: 10%;
+        height: 200px;
+        width: 80%;
+    }
+    .box{
+        left: 10%;
+        width: 80%;
+    }
+}
+@media (max-width: 1124px){
+    .pay-media{
+        padding-top: 50px;
+        width: 90%;
+    }
+    .pay-card {
+        width: 265px;
+     }
+     .container2{
+        width: 85%;
+    }
+    .part-1{
+        width: 180px;
+   }
+   input[type="text1"]{
+    width: 150px;
+ }
+ 
+}
+@media (max-width: 1024px){
+    .top-mid{
+        padding-left: 8%;
+      }
+    nav img{ 
+        padding-left: 8%;
+    }
+    nav ul{
+        padding-right: 8%;
+    }
+    .pic{
+        position: absolute;
+        top: 36%;
+        right: 15%;
+    }
+    .part1{
+        position: relative;
+        float: left;
+        height: 87vh;
+        width: 60%;
+    }
+    .circle{
+        height: 150px;
+        width: 150px;
+        top: 30vh;
+        right: 10%;
+    }
+    .form5{
+        margin-left: 10%;
+    }
+    input[type="text"]{
+       width: 400px;
+       height: 45px;
+    }
+    input[type="subm"]{
+       width: 130px;
+       height: 45px;
+    }
+    .hosting-card{
+        width: 82%;
+      }
+    .container-2{
+        height: 40vh;
+    }
+    .parts1{
+        width: 25%;
+    } 
+    .offer{
+        padding-top: 50px;
+    }
+    .net img{
+        height: 40vh;
+        width:90%;
+     }
+     .pay-media{
+        padding-top: 50px;
+        width: 82%;
+    }
+    .pay-card {
+        width: 235px;
+     }
+     .parts2 h4{
+        padding-top: 25px;
+       }
+     .bar{
+        padding-top: 30px;
+     }
+     .offer-card h1{
+        padding-top: 20px;
+    }
+    .box{
+        top: 50px;
+    }
+    .about-media{
+        width: 82%;
+    }
+    .left-f {
+        padding-left: 8%;
+    }
+    .right-f {
+        padding-right: 5%;
+     }
+     .part{
+        left: 8%;
+        height: 200px;
+        width: 85%;
+    }
+    .box{
+        left: 8%;
+        width: 84%;
+    }
+}
+@media (max-width: 995px){
+    .top-mid{
+        padding-left: 8%;
+      }
+    nav ul li a{
+        font-size: 13px;
+    }
+    nav ul{
+        padding-right: 7%;
+      }
+    nav img{ 
+        padding-left: 8%;
+    }
+    .pic{
+        right: 10%;
+    }
+    .text{
+        left: 12%;
+    }
+    .check-box{
+        left: 12%;
+    }
+    .button{
+        top: 75%;
+        left: 12%;
+    }
+    .circle{
+        height: 150px;
+        width: 150px;
+        top: 30vh;
+        right: 6%;
+    }
+    .form5{
+        margin-left: 5%;
+    }
+    .hosting-card{
+        width: 85%;
+      }
+      .parts1{
+        width: 25%;
+    }    
+    .parts2 h4{
+        padding-top: 20px;
+       }
+    .offer-media{
+        width: 85%;
+    }  
+
+    .pay-media{
+        padding-top: 50px;
+        width: 90%;
+    }
+    .pay-card {
+        width: 228px;
+     }
+       .bar{
+        padding-top: 50px;
+     }
+     .offer-card h1{
+        padding-top: 20px;
+    }
+    .side-1 p,.side-2 p{
+         font-size: 12px;
+     }
+    .about-media{
+        width: 85%;
+    }
+    .about-card {
+        width: 46%;
+    }
+    .crcl{
+        left: 8%; 
+    }
+    .left-f {
+        padding-left: 2%;
+    }
+    .right-f {
+        padding-right: 2%;
+     }
+     .left-f p{
+        font-size: 14px;
+     }
+     .right-f ul li a{
+       font-size: 14px;
+     }
+     .part{
+        left: 7%;
+        width: 85%;
+    }
+
+}
+
+@media (max-width: 870px){
+    .top-mid{
+        padding-left: 5%;
+      }
+    nav ul li a{
+        font-size: 12px;
+    }
+    nav ul{
+        padding-right: 3%;
+      }
+    nav img{ 
+        padding-left: 4%;
+    }
+    .pic{
+        position: absolute;
+        top: 36%;
+        right: 8%;
+    }
+    .part{
+        width: 90%;
+    }
+    .parts2 h4{
+        padding-top: 10px;
+       }
+       .part{
+        left: 5%;
+    }
+    .pay-media{
+        padding-top: 50px;
+        width: 92%;
+    }
+    .pay-card {
+        width: 200px;
+     }
+     .crcl{
+        left: 3%; 
+    }
+    .container2{
+        width: 92%;
+    }
+    .box{
+        left: 8%;
+        width: 90%;
+    }
+}
+
+@media (max-width: 768px){
+    
+    .a{
+        padding-right: 6%;
+      }
+nav ul li a{
+        color: #ffff;
+    }
+     label #btn{
+        display: block;
+    }
+    nav ul{
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        background-color: #2f3f54;
+        top: 130px;
+        left: -100%;
+        text-align: center;
+        transition: all .5s;
+        z-index: 1;
+    }
+    nav ul li {
+        display: block;
+        margin: 20px 0;
+        line-height: 50px;
+       }
+    #check:checked ~ ul{
+        left: 0;
+    }
+    #check:checked ~ label #btn{
+        display: none;
+    }
+    #check:checked ~ label #cancel{
+        display: block;
+    }
+    .pic{
+        position: absolute;
+        top: 36%;
+        right: 5%;
+    }
+    .check-box{
+        top: 50%;
+        left: 10%;
+    }
+    .button a{
+        padding: 9px 20px;
+        font-size: 12px;
+    }
+    .text{
+        left: 10%;
+    }
+    .button{
+        left: 10%;
+    }
+    .text h1{
+       font-size: 25px;
+       letter-spacing: 1px;
+    }
+    .pic #pic1{
+        height: 180px;
+        width: 100px;
+      }
+      .pic #pic2{
+         height: 280px;
+         width: 150px;
+       }
+       .circle{
+        height: 150px;
+        width: 150px;
+        top: 30vh;
+        right: 1%;
+    }
+    .hosting-card{
+        display: flex;
+        flex-direction: column;
+        width:100%;
+      }
+    .card{
+           width:90%;
+       }
+    .right-text{
+        padding-bottom: 10vh;
+    }
+    .box{
+        left: 10%;
+        width: 80%;
+    }
+    .container-2{
+        height: 40vh;
+    }
+    .form5{
+        margin-left: 6%;
+    }
+    input[type="text"]{
+       width: 400px;
+       height: 45px;
+    }
+    input[type="subm"]{
+       width: 140px;
+       height: 45px;
+    }
+    .icon{
+        margin-left: 50px;
+    }
+    .icon p{
+        margin: 1px;
+        font-size: 16px;
+    }
+    .icon h4{
+        margin: 1px;
+        font-size: 16px;
+      }
+      .offer-media{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .side-1 p,.side-2 p{
+        font-size: 16px;
+    }
+     .offer-card{
+        width: 90%;
+     }
+     .pay-media{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+   .pay-card { 
+      width: 90%;
+}
+.about-media{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+ }
+ .about-card {
+    width: 90%;
+    margin-top: 20px;
+ }
+ .crcl{
+    top: 28%;
+    left: 25%;
+}
+.container2{
+    display: flex;
+    flex-direction: column;
+}
+.part-1{
+    width: 90%;
+}
+.f{
+    width: 200px;
+}
+.last-card{
+    display: flex; 
+    flex-direction: column;
+    width: 100%;
+  }
+  .last1{
+    width: 90%;
+  }
+  .left-f p{
+    font-size: 12px;
+ }
+ .right-f ul li a{
+   font-size: 12px;
+ }
+ .box{
+    left: 5%;
+    width: 90%;
+}
+}
+@media (max-width: 650px){
+    .tt{
+        width: 100%;  
+      }
+      .form5{
+        margin-left: 6%;
+    }
+    input[type="text"]{
+       width: 280px;
+       font-size: 12px;
+    }
+    input[type="subm"]{
+       width: 130px;
+       font-size: 12px;
+    }
+    .icon{
+        margin-left: 30px;
+    }
+    .icon p{
+        font-size: 12px;
+    }
+    .icon h4{
+        font-size: 12px;
+      }
+    .top-part{
+     font-size: 12px;
+    }
+    .left-f p{
+        font-size: 10px;
+     }
+     .right-f ul li a{
+       font-size: 10px;
+     }
+     .right-f {
+        padding-left: 10%;
+     }
+}
+@media (max-width: 500px){
+
+    .top-mid{
+        padding-left: 2%;
+      }
+    .top-part{
+        font-size: 12px;
+       }
+    .button a{
+        padding: 9px 10px;
+    }
+    .pic{
+        top: 40%;
+        right: 5%;
+    }
+    .pic #pic1{
+        height: 170px;
+        width: 90px;
+      }
+      .pic #pic2{
+        margin-left:2px;
+         height: 250px;
+         width: 110px;
+       }
+       form{
+        padding-top: 30px;
+        margin-left: 5%;
+    }
+    .box{
+        left: 5%;
+        width: 90%;
+    }
+    .boxs{
+        padding-left: 2%;
+        width: 30%;
+    }
+      .right-pic img{
+        width: 100%;
+       }
+       .form5{
+        margin-left: 3%;
+    }
+    input[type="text"]{
+       width: 220px;
+       font-size: 10px;
+    }
+    input[type="subm"]{
+       width: 100px;
+       font-size: 10px;
+    }
+    .icon{
+        margin-left: 10px;
+    }
+    .icon p{
+        font-size: 10px;
+    }
+    .icon h4{
+        font-size: 10px;
+      }
+      .text{
+        top: 20%;
+    }
+    .check-box{
+        top: 62%;
+    }
+    .button{
+        top: 88%; 
+    }
+    .crcl{
+        left: 15%; 
+    }
+    .right-f {
+        padding-left: 5%;
+     }
+}
+@media (max-width: 414px){
+    .form5{
+        margin-left: 5%;
+    }
+    input[type="text"]{
+       width: 200px;
+       font-size: 10px;
+    }
+    input[type="subm"]{
+       width: 90px;
+       font-size: 10px;
+    }
+    .icon{
+        margin-left: 10px;
+    }
+    .icon p{
+        font-size: 8px;
+    }
+    .icon h4{
+        font-size: 8px;
+      }  
+      .side-1 p,.side-2 p{
+         font-size: 10px;
+     }
+     .crcl{
+        left: 3%; 
+    }
+    .text{
+        top: 10%;
+    }
+    .check-box{
+        top: 58%;
+    }
+    .button{
+        top: 85%; 
+    }
+    .pic #pic1{
+        height: 150px;
+        width: 50px;
+        right: 60px;
+      }
+      .pic #pic2{
+         height: 250px;
+         width: 100px;
+         right: 60px;
+       }
+       .top-part{
+        font-size: 11px;
+    }
+    .left-f p{
+        font-size: 8px;
+     }
+     .right-f ul li a{
+       font-size: 8px;
+       padding: 2px;
+     }
+    
+}
+@media (max-width: 349px){
+    .top-part{
+        font-size: 9px;
+    } 
+}
